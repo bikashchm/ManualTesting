@@ -1,7 +1,9 @@
 # ManualTesting
 Experience Automation Engineer 🛠️🤖
 🌟 About Me
+
 Hello There! I’m Bikash, an experienced Automation Engineer with a passion for creating efficient, reliable, and scalable automated solutions. With a robust background in software engineering, testing, and automation frameworks, I specialize in streamlining processes, improving product quality, and accelerating development cycles. My goal is to leverage my skills to drive innovation and optimize workflows in dynamic environments. 
+
 
 🛠️ Skills & Expertise
 Automation Testing
